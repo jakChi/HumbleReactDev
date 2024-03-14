@@ -20,7 +20,8 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <div className="footer">
-      <ul className="soc-links">
+      Footer
+      {/* <ul className="soc-links">
         <Link
           href="https://www.facebook.com/jacob.tchintcharauli"
           target="_blank"
@@ -66,7 +67,7 @@ const Footer = () => {
         <p>
           &copy; Designed and developed by jakChi 2023 | All Rights Reserved
         </p>
-      </address>
+      </address> */}
     </div>
   );
 };

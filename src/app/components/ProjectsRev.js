@@ -1,7 +1,7 @@
 import React from "react";
 import "../Home.css";
 import Item from "./Item";
-import ProjectsArr from "../pages/projects/ProjectsData";
+import ProjectsArr from "../projects/ProjectsData";
 
 //const dummyImg = "https://dummyimage.com/300x200";
 
